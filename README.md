@@ -11,9 +11,7 @@ But why not just upgrading the instance? Because I have some custom plugin and I
 
 HOW (usage)
 ============
-OPTION1
-Go to http://<jenkins_instance>/pluginManager/advanced > "Update Site" and replace the URL by the https://github.com/matiasburni/controlled_jenkins_update-center/blob/master/update-center.json
+OPTION1: Go to http://<jenkins_instance>/pluginManager/advanced > "Update Site" and replace the URL by the https://raw.githubusercontent.com/matiasburni/controlled_jenkins_update-center/master/update-center.json
 If you want you can fork and edit the versions...
 
-OPTION2
-You can use the stable version http://mirrors.seville-jam.es/jenkins/updates/stable/update-center.json which is updated les frequently.
+OPTION2: You can use the stable version https://updates.jenkins-ci.org/stable/update-center.json which is updated les frequently.
