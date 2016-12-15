@@ -2,7 +2,7 @@
 
 WHAT
 ============
-This is a static file version to control the http://mirrors.seville-jam.es/jenkins/updates/current/update-center.json and fix a release "personal stable" version. 
+This is a static file version to control the http://updates.jenkins-ci.org/update-center.json and fix a release "personal stable" version. 
 
 WHY
 ============
