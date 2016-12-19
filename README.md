@@ -15,3 +15,5 @@ OPTION1: Go to http://<jenkins_instance>/pluginManager/advanced > "Update Site" 
 If you want you can fork and edit the versions...
 
 OPTION2: You can use the stable version https://updates.jenkins-ci.org/stable/update-center.json which is updated les frequently.
+
+OPTION3: After Jenkins 2.x you can disable this notification on http://<jenkins_instance>/configure > Administrative monitors configuration > "Jenkins Update Notification"
